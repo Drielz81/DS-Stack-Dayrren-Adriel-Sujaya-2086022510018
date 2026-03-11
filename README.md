@@ -1,1 +1,1 @@
-How to compile 
+How to compile/Run each question
